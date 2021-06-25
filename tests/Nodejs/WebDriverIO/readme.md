@@ -31,7 +31,7 @@
 ## Test/Scripts 
 > each test contains pageObject and Test suite
 
-* [CheckBoxes](/CheckBoxes/)
+* [CheckBoxes](/tests/Nodejs/WebDriverIO/CheckBoxes/)
 
-* [Login](/Login/)
+* [Login](/tests/Nodejs/WebDriverIO/Login/)
 
