@@ -35,3 +35,5 @@
 
 * [Login](/tests/Nodejs/WebDriverIO/Login/)
 
+* [Login](/tests/Nodejs/WebDriverIO/KeyPresses/)
+
