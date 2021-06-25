@@ -39,4 +39,7 @@
 
 * [Hovers](/tests/Nodejs/WebDriverIO/Hovers/)
 
+* [Add/Remove Elements](/tests/Nodejs/WebDriverIO/addAndRemoveElements/)
+
+
 
