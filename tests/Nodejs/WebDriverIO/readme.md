@@ -33,7 +33,10 @@
 
 * [CheckBoxes](/tests/Nodejs/WebDriverIO/CheckBoxes/)
 
-* [Login](/tests/Nodejs/WebDriverIO/Login/)
+* [Form Authentication](/tests/Nodejs/WebDriverIO/Login/)
 
-* [Login](/tests/Nodejs/WebDriverIO/KeyPresses/)
+* [KeyPresses](/tests/Nodejs/WebDriverIO/KeyPresses/)
+
+* [Hovers](/tests/Nodejs/WebDriverIO/Hovers/)
+
 
