@@ -28,7 +28,7 @@
     /~$ npx wdio run wdio.conf.js
 ```
 
-## Test/Scripts 
+## Test Files
 > each test contains pageObject and Test suite
 
 * [CheckBoxes](/tests/Nodejs/WebDriverIO/CheckBoxes/)
