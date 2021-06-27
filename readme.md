@@ -1,7 +1,7 @@
 
 # Web Ui Test Automation
 
-> This Repo contains test cases for the-internet.herokuapp.com ui examples in Nodejs, PHP, ...
+> This Repo contains test cases for the-internet.herokuapp.com ui examples in Nodejs, PHP, ... testing Frameworks and Library
 
 
 ## Nodejs

@@ -1,0 +1,12 @@
+{
+    "name": "vwedesam/web-ui-test-automation",
+    "description": "web ui test automation",
+    "type": "project",
+    "authors": [
+        {
+            "name": "vwedesam",
+            "email": "eshemiedomisam@yahoo.com"
+        }
+    ],
+    "require": {}
+}
